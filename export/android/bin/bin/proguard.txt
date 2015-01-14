@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:14
+-keep class com.amagegames.IdCrisis2.MainActivity { <init>(...); }
+
